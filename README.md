@@ -21,5 +21,6 @@ Hands-on cybersecurity work spanning **web application penetration testing**, **
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/pasin-visuttipinate](https://www.linkedin.com/in/pasin-visuttipinate)
 - TryHackMe: [tryhackme.com/p/AvonS10](https://tryhackme.com/p/AvonS10)
 - Email: pasin.visuttipinate@gmail.com
